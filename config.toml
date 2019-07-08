@@ -1,7 +1,7 @@
 theme = "airspace-hugo"
-baseURL = "https://friendly-goldstine-490c6a.netlify.com/"
+baseURL = "https://sisteranalyst.netlify.com/"
 languageCode = "en-us"
-title = "klikR Sister"
+title = "Sister Analytic"
 
 # The site's parameters
 [params]
@@ -49,8 +49,8 @@ title = "klikR Sister"
 
   [params.slider]
     enable = true
-    title = "klikR Sister<br/> advancing data to conversation"
-    subtitle = "We want to enable all talent with opportunities for education.<br/>That’s one of the reasons why we launched klikR Sister"
+    title = "Sister Analyst<br/> advancing data to conversation"
+    subtitle = "We want to enable all talent with opportunities for education.<br/>That’s one of the reasons why we launched Sister Analyst"
     bgImage = "img/slider-bg.jpg"
     btnText = "Discover Our Projects"
     url = "#"
@@ -59,7 +59,7 @@ title = "klikR Sister"
     enable = true
     image = "img/wrapper-img.png"
     title = "About Us"
-    paragraph = "We are a not for profit social enterprise focussing on the objective of increasing the number of women involved in the field of data science. This is our primary mission; we do it to help address the gender imbalance in tech industries and to enable women to fulfil their potential regardless of their background. Our principles are founded on the four pillars of diversity, data literacy, transparency and inclusivity. We believe that everyone with the ability and determination should be able to flourish in the increasingly consequential, social and commercial world of DS. Our courses are specifically structured to help address some of the learning obstacles that women/non binary individuals may confront when entering an emerging field such as data science, where women are a minority. KlikR-sister aims to empower women in an underrepresented tech industry by developing technical as well as gender specific skills to achieve equitable representation."
+    paragraph = "We are a not for profit social enterprise focussing on the objective of increasing the number of women involved in the field of data science. This is our primary mission; we do it to help address the gender imbalance in tech industries and to enable women to fulfil their potential regardless of their background. Our principles are founded on the four pillars of diversity, data literacy, transparency and inclusivity. We believe that everyone with the ability and determination should be able to flourish in the increasingly consequential, social and commercial world of DS. Our courses are specifically structured to help address some of the learning obstacles that women/non binary individuals may confront when entering an emerging field such as data science, where women are a minority. Sister Analyst aims to empower women in an underrepresented tech industry by developing technical as well as gender specific skills to achieve equitable representation."
 
   [params.blog]
     enable = true
