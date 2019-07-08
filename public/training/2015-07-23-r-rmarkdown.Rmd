@@ -1,0 +1,18 @@
+---
+title: "Our Training Programmes"
+author: ""
+date: 2015-07-23T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# How we teach
+
+Our courses are aimed at young women and non binary people from any social background with the desire to enter the rapidly expanding world of data. We offer distinctive course structures that are tailored to acknowledge the range of skills and experiences of potential students. Depending on their individual requirements, students are able to plan their own route through the programme of studies. On completion, they are able to choose whether to continue onto higher level studies within the KlikR-sister portfolio or embark on their new careers in Data Science. 
+
+At this stage we also help with job applications, interview skills, networking within the DS community and developing intern opportunities. In other words, we do our utmost to provide guidance to our alumni for as long as required.  
+

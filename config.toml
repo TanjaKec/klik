@@ -1,0 +1,103 @@
+theme = "airspace-hugo"
+baseURL = "https://klikrsister.netlify.com"
+languageCode = "en-us"
+title = "klikR Sister"
+
+# The site's parameters
+[params]
+  home = "Home"
+  
+  [menu]
+
+    [[menu.header]]
+      weight = 2
+      name = "Training"
+      url = "training"
+    [[menu.header]]
+      weight = 3
+      name = "Blog"
+      url = "blog"
+    [[menu.header]]
+      weight = 4
+      name = "Community"
+      url = "community"
+    [[menu.header]]
+      weight = 5
+      name = "Contact"
+      url = "contact"
+
+    [[menu.footer]]
+      weight = 1
+      name = "About us"
+      url = "#"
+    [[menu.footer]]
+      weight = 2
+      name = "Contact us"
+      url = "contact"
+    [[menu.footer]]
+      weight = 3
+      name = "How it works"
+      url = "work"
+    [[menu.footer]]
+      weight = 4
+      name = "Blog"
+      url = "blog"
+    [[menu.footer]]
+      weight = 5
+      name = "Terms"
+      url = "#"
+
+  [params.slider]
+    enable = true
+    title = "klikR Sister<br/> advancing data to conversation"
+    subtitle = "We want to enable all talent with opportunities for education.<br/>That’s one of the reasons why we launched klikR Sister"
+    bgImage = "img/slider-bg.jpg"
+    btnText = "Discover Our Projects"
+    url = "#"
+
+  [params.wrapper]
+    enable = true
+    image = "img/wrapper-img.png"
+    title = "About Us"
+    paragraph = "We are a not for profit social enterprise focussing on the objective of increasing the number of women involved in the field of data science. This is our primary mission; we do it to help address the gender imbalance in tech industries and to enable women to fulfil their potential regardless of their background. Our principles are founded on the four pillars of diversity, data literacy, transparency and inclusivity. We believe that everyone with the ability and determination should be able to flourish in the increasingly consequential, social and commercial world of DS. Our courses are specifically structured to help address some of the learning obstacles that women/non binary individuals may confront when entering an emerging field such as data science, where women are a minority. KlikR-sister aims to empower women in an underrepresented tech industry by developing technical as well as gender specific skills to achieve equitable representation."
+
+  [params.blog]
+    enable = true
+    title = "Get The Latest On What We're doing"
+    subtitle = "Catch up with us, anytime and anywhere"
+
+  [params.feature]
+    enable = true
+    title = "Making Sense of it all"
+    bgImage = "img/feature-bg.jpg"
+    content = "The relatively new professions of Data Science (DS) and Data Analytics (DA) are not simply fashionable jargon, but rather disciplines with a set of tools that empower data enriched living. They are hybrid of compounding computing and numerical skills that may be difficult to develop in traditional training programs. To make DS as a carrier option, new generations of students need to be introduced to the discipline from an early age. Education and training systems need to adopt a more agile approach in responding to workforce needs that will prepare a future work force for analytics-related roles, while existing workers need to continuously enhance their analytical and technological skills."
+    [params.feature.button]
+    caption = "View Works"
+    url = "#"
+
+  [params.call]
+    enable = true
+    bgImage = "img/call-to-action-bg.jpg"
+    title = "We design delightful digital experiences."
+    paragraph = "Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+    [params.call.button]
+      url = "#"
+      text = "tell us your story"
+
+  [params.contact]
+    enable = true
+    title = "Drop us a note"
+    subtitle = "Don’t just take our word for it. Check out some of our latest work."
+    [params.contact.form]
+      name = "Your name"
+      email = "Your email"
+      subject = "Your subject"
+      message = "Your message"
+      button = "Send message"
+    [params.contact.box]
+      title = "Stop by for a visit"
+      address = "North Main Street, Brooklyn Australia"
+      email = "Email: contact@mail.com"
+      phone = "Phone: +88 01672 506 744"
+    [params.contact.gmaps]
+      title = "We Also Count in Google Maps"
