@@ -1,7 +1,7 @@
 theme = "airspace-hugo"
 baseURL = "https://sisteranalyst.netlify.com/"
 languageCode = "en-us"
-title = "Sister Analytic"
+title = "Sister Analyst"
 
 # The site's parameters
 [params]
